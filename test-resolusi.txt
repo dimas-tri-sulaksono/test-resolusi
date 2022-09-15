@@ -2,3 +2,5 @@ TEST RESOLUSI
 - complete GIT course
 - complate Laravel course
 - complete Python course
+- complete Javascript course
+- html
