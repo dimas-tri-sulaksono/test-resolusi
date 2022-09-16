@@ -1,7 +1,9 @@
 test branch
 1 satu
 1.1 satu.satu
+1.2 satu.dua
 2 dua
+2.1 dua.satu
 2.2 dua.dua
 3 tiga
 3.1 tiga.satu
